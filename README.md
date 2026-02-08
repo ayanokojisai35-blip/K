@@ -21,7 +21,9 @@
 
 <div align="center">
 
-### 🚨 👉 [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗝𝗢𝗜𝗡 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://m.me/j/AbaLu1kVZB8R-vLR/) 👈 🚨
+<a href="https://m.me/j/AbaLu1kVZB8R-vLR/">
+<img src="https://img.shields.io/badge/Join%20Messenger%20Support%20Group-0084FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+</a>
 
 💬 𝗚𝗲𝘁 𝗵𝗲𝗹𝗽 • 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 • 𝗕𝘂𝗴 𝗳𝗶𝘅 • 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗰𝗵𝗮𝘁
 
