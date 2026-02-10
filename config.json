@@ -44,7 +44,7 @@
   },
   "database": {
     "type": "mongodb",
-    "uriMongodb": "mongodb+srv://devakashcodes_game:akashx404_game_db@gamedb.1pvxozl.mongodb.net/?appName=gameDB",
+    "uriMongodb": " ",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "Recommended using 'mongodb' or 'sqlite'."
